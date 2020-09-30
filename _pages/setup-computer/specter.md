@@ -14,5 +14,9 @@ If your node is run on the same computer as Specter, Specter will likely be able
 
 TODO: add screenshot.
 
+#### Connect Specter-Desktop to your external HDD/SSD 
+Note that if you are using an external HDD or SSD for bitcoin core blockchain data, Specter-Desktop may not automatically find it. 
+Set this in Specter configuration to point to your external drive bitcoin folder. 
+
 
 {% include next_steps.md next_url="/setup-wallets" next_name="Setup Hardware Wallets" %}
